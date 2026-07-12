@@ -21,3 +21,10 @@ Easy
 
 - Tempo: O(n)
 - Espaço: O(n)
+
+
+## Status
+
+✅ Resolvido
+
+**Data:** 12/07/2026

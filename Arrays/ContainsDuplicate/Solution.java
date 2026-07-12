@@ -11,9 +11,11 @@ public class Solution{
 
         for(int n : nums){
             if(vistos.containsKey(n)){
-                System.out.println(false);
+                System.out.println(true);
+                return;
             }
+            vistos.put(n, 1);
         }
-        System.out.println(true);
+        System.out.println(false);
     }
 }

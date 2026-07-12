@@ -8,6 +8,7 @@ A comparação deve ignorar diferenças entre letras maiúsculas e minúsculas.
 Exemplos:
 
 "Radar" → Palíndromo
+
 "Java" → Não é palíndromo
 
 

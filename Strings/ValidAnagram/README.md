@@ -22,3 +22,10 @@ Easy
 ## Complexidade
 
 Depende da abordagem utilizada.
+
+
+## Status
+
+✅ Resolvido
+
+**Data:** 12/07/2026

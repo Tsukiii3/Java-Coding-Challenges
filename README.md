@@ -36,10 +36,12 @@ Cada exercício possui sua própria pasta contendo:
 ### Arrays
 
 - Two Sum
+- Contains Duplicate
 
 ### Strings
 
 - Valid Anagram
+- Valid Palindrome
 
 ### Stack
 

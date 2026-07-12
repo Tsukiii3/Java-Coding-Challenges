@@ -46,6 +46,7 @@ Cada exercício possui sua própria pasta contendo:
 ### Stack
 
 - Valid Parentheses
+- Baseball Game
 
 ---
 

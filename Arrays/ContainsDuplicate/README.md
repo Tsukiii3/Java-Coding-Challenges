@@ -52,9 +52,11 @@ Para cada elemento:
 3. Caso contrário, adiciona o número ao mapa e continua a busca.
 
 ## Complexidade
+- Tempo: O(n)
+- Espaço: O(n)
 
-| Complexidade | Valor |
-|--------------|-------|
-| Tempo | **O(n)** |
-| Espaço | **O(n)** |
----
+## Status
+
+✅ Resolvido
+
+**Data:** 12/07/2026

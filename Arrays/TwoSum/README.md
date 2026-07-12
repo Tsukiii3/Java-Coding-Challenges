@@ -24,3 +24,9 @@ Easy
 
 - Tempo: O(n²)
 - Espaço: O(1)
+
+## Status
+
+✅ Resolvido
+
+**Data:** 12/07/2026

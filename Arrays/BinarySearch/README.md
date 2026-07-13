@@ -59,4 +59,4 @@ A busca binária divide o array ao meio a cada iteração.
 
 ✅ Resolvido
 
-**DATA 13/07/26**
+**DATA: 13/07/26**

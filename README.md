@@ -37,11 +37,13 @@ Cada exercício possui sua própria pasta contendo:
 
 - Two Sum
 - Contains Duplicate
+- Binary Search
 
 ### Strings
 
 - Valid Anagram
 - Valid Palindrome
+- Reverse String
 
 ### Stack
 

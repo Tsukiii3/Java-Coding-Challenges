@@ -64,7 +64,6 @@ Cada exercício possui sua própria pasta contendo:
 - Strings
 - HashMap
 - Stack
-- Queue
 ---
 
 ## Evolução

@@ -58,4 +58,5 @@ A busca binária divide o array ao meio a cada iteração.
 ## Status
 
 ✅ Resolvido
+
 **DATA 13/07/26**

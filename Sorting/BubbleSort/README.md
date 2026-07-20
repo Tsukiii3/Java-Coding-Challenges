@@ -54,7 +54,7 @@ A solução utiliza dois laços de repetição:
 
 ## Complexidade
 
-| Complexidade | Valor |
+Complexidade | Valor 
 - Tempo (Melhor caso) | **O(n)**
 - Tempo (Caso médio) | **O(n²)**
 - Tempo (Pior caso) | **O(n²)**

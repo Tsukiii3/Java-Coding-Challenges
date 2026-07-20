@@ -51,7 +51,7 @@ Cada exercício possui sua própria pasta contendo:
 - Valid Parentheses
 - Baseball Game
 
-### Arrays
+### Sorting
 
 - Bubble-Sort
 

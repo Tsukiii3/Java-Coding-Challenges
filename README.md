@@ -19,9 +19,10 @@ O objetivo deste projeto é documentar minha evolução como desenvolvedor, prat
 ```text
 java-coding-challenges/
 │
-├── arrays/
-├── strings/
-├── stack/
+├── Arrays/
+├── Strings/
+├── Stack/
+├── Sorting/
 ```
 
 Cada exercício possui sua própria pasta contendo:

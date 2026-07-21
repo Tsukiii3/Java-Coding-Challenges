@@ -54,6 +54,7 @@ Cada exercício possui sua própria pasta contendo:
 ### Sorting
 
 - Bubble-Sort
+- Selection-Sort
 
 ---
 

@@ -14,6 +14,7 @@ O objetivo deste projeto é documentar minha evolução como desenvolvedor, prat
 - Resolver problemas de algoritmos
 ---
 
+
 ## Estrutura do projeto
 
 ```text

@@ -56,6 +56,7 @@ Cada exercício possui sua própria pasta contendo:
 
 - Bubble-Sort
 - Selection-Sort
+- Insertion-Sort
 
 ---
 

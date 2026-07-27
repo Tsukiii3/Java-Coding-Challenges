@@ -1,42 +1,39 @@
-Reverse Linked List
-Descrição
+package LinkedList.ReverseLinkedList;
 
-O Reverse Linked List é um problema clássico de estruturas de dados que consiste em inverter a ordem dos nós de uma lista encadeada (Linked List).
+public class ReverseLinkedList {
+    public static class ListNode {
+        int val;
+        ListNode next;
 
-A solução percorre a lista apenas uma vez, alterando as referências entre os nós até que a lista esteja completamente invertida.
+        ListNode(int val) {
+            this.val = val;
+        }
+    }
+    public ListNode reverseList(ListNode head) {
+        ListNode previous = null;
+        ListNode current = head;
 
-Exemplo
-Entrada
-1 -> 2 -> 3 -> 4 -> null
-Saída
-4 -> 3 -> 2 -> 1 -> null
-Categoria
+        while (current != null) {
+            ListNode next = current.next;
+            current.next = previous;
+            previous = current;
+            current = next;
+        }
+        return previous;
+    }
+    public static void main(String[] args) {
+        ListNode head = new ListNode(1);
+        head.next = new ListNode(2);
+        head.next.next = new ListNode(3);
+        head.next.next.next = new ListNode(4);
 
-Linked List
+        ReverseLinkedList solution = new ReverseLinkedList();
 
-Dificuldade
+        head = solution.reverseList(head);
 
-Easy
-
-Conceitos
-Linked Lists
-Manipulação de referências
-Estruturas de dados
-Laços de repetição
-Algoritmos iterativos
-Solução
-
-A solução utiliza três referências:
-
-previous: armazena o nó anterior.
-current: representa o nó atual da lista.
-next: salva temporariamente o próximo nó antes da inversão.
-
-Durante cada iteração:
-
-O próximo nó é armazenado em next.
-O ponteiro do nó atual é invertido para apontar para o nó anterior.
-previous avança para o nó atual.
-current avança para o próximo nó.
-
-Ao final da execução, previous passa a representar o novo início da lista invertida.
+        while (head != null) {
+            System.out.print(head.val + " ");
+            head = head.next;
+        }
+    }
+}
